@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+img{
+    width: 110% !important;
+}
+img2{
+    width: 300px !important;
+}
+.img3{
+    width: 500px !important ;
+}
+input{
+    color: rgb(241, 241, 231) !important;
+}
+ul{
+    padding-left: 0 !important;
+}
+li{
+    list-style-type: none;
+    margin-bottom: 10px;
+    padding: 0;
+}
